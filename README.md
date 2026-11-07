@@ -9,7 +9,7 @@ The code covers topics such as:
 - Numerical differentiation and error comparison.
 - Euler's method compared with MATLAB's `ode45`.
 
-Each `hw*/` directory contains the code and selected output files that belonged to that assignment. Submission PDFs, reference textbooks, exam archives, and instructor solutions were left out.
+Each `hw*/` directory contains the code and a few compact generated outputs that make the numerical behavior easier to inspect. Submission PDFs, handwritten solution photographs, student identifiers, reference textbooks, exam archives, and instructor solutions were left out.
 
 ## Running
 
